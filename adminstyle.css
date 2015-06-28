@@ -1,0 +1,41 @@
+a {
+	display: block;
+	text-decoration: none;
+	font-size: 1em;
+
+}
+div#inventory {
+	text-align: center;
+	width: 100%;
+}
+div#update {
+	text-align: center;
+}
+div.col {
+	vertical-align: top;
+	display: inline-block;
+	min-width: 15%;
+	max-width: 20%;
+	margin: 2%;
+}
+span.text {
+	margin: 2%;
+	display: inline-block;
+	max-width: 60%;
+}
+label.text {
+	display: inline-block;
+}
+input.del {
+	float: right;
+}
+img.curThumb {
+	width: 20%;
+}
+div#imgs {
+	text-align: center;
+}
+div.thumbCont {
+}
+input#delButt {
+}
